@@ -21,7 +21,6 @@ By the way, I should mention that I'm also skilled in Git, which has played a si
 
   
 * 💼 Currently I am newcomer of Canada and seeking for a new job 
-* ✍🏻 I wrote dev articles on [Hashnode](https://lymcode.hashnode.dev) <br/>
 * 📫 Contact me [@MHShammakhi]([https://www.linkedin.com/in/](https://www.linkedin.com/in/mohammad-hasan-shammakhi-a6a34663/])
 
 ## My skills
@@ -30,8 +29,7 @@ By the way, I should mention that I'm also skilled in Git, which has played a si
   <img align="center" alt="Skills" src="./logos.PNG" />
 </p>  
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mh.shammakhi/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-hasan-shammakhi-a6a34663/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mh.shammakhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-hasan-shammakhi-a6a34663/) 
   
 <!--
 **mhshammakhi/mhshammakhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
