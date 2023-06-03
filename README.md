@@ -20,11 +20,10 @@ Ah, Machine Learning and Deep Learning! This field excites me, especially when a
 By the way, I should mention that I'm also skilled in Git, which has played a significant role in shaping my abilities and bringing me to where I am today. :smile:
 
   
-* 💼 Currently I am newcomer of Canada and seeking for a new job 
+* 💼 Currently I am a newcomer to Canada and seeking a new job.
 * 📫 Contact me [@MHShammakhi](https://www.linkedin.com/in/mohammad-hasan-shammakhi-a6a34663/)
 
 ## My skills
-
 <p align="center">
   <img align="center" alt="Skills" src="./logos.PNG" />
 </p>  
