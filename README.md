@@ -1,4 +1,4 @@
-### Hi there 👋 I'm <a href='https://mhshammakhi.github.io/'>Mohammad Shammakhi </a></h1>
+<h1 align="center"> Hi there 👋 I'm <a href='https://mhshammakhi.github.io/'>Mohammad Shammakhi </a></h1>
 
 <p align="center">
  <a>
@@ -27,7 +27,7 @@ By the way, I should mention that I'm also skilled in Git, which has played a si
 ## My skills
 
 <p align="center">
-  <img align="center" alt="Skills" src="./logos.png" />
+  <img align="center" alt="Skills" src="./logos.PNG" />
 </p>  
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mh.shammakhi/)
