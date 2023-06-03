@@ -21,7 +21,7 @@ By the way, I should mention that I'm also skilled in Git, which has played a si
 
   
 * 💼 Currently I am newcomer of Canada and seeking for a new job 
-* 📫 Contact me [@MHShammakhi]([https://www.linkedin.com/in/](https://www.linkedin.com/in/mohammad-hasan-shammakhi-a6a34663/])
+* 📫 Contact me [@MHShammakhi](https://www.linkedin.com/in/mohammad-hasan-shammakhi-a6a34663/)
 
 ## My skills
 
