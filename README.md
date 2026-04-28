@@ -6,23 +6,50 @@
   <a href="https://www.linkedin.com/in/mohammad-hasan-shammakhi-a6a34663/">Linkedin</a> •
 </p>
 
-I'm a Applied R&D Engineer with a great passion for exploring different fields that bring immense value. Let me break down my interests into three exciting areas:
+## 👋 About Me
+Applied R&D Engineer specializing in AI-driven communication systems, signal processing, and high-performance SW/HW co-design.
 
-**Signal Processing and Communication Engineering:**
-One of my main areas of expertise lies in signal processing and communication engineering. I love diving into projects that involve developing innovative communication systems. To bring my ideas to life, I rely on powerful tools like MATLAB and Python. These languages enable me to work with complex signals, enhance their quality, and optimize overall system performance.
+Currently developing a large-scale real-time system using Go, CUDA, and C++, focused on high-performance signal processing and system integration.
 
-**Machine Learning and Deep Learning:**
-Ah, Machine Learning and Deep Learning! This field excites me, especially when applied to image processing, computer vision, and signal processing. Python and MATLAB are my go-to tools for exploring these domains. I love developing smart algorithms that can extract valuable insights from complex data. It's incredible how these techniques can push the boundaries of what's possible and open up new avenues of innovation.
+---
 
-**Software and Hardware Development:**
-I'm also a software and hardware enthusiast. I enjoy getting my hands dirty in the world of development, using languages like C++ and Qt to create awesome desktop applications. Additionally, I have experience in CUDA for GPU programming, which allows me to harness the full potential of graphics processing. When it comes to hardware development, I'm comfortable working with SystemGenerator and VHDL for FPGA projects. It's amazing how these skills enable me to bring software and hardware together for seamless solutions.
+## 📡 Signal Processing & Communication Systems
+Specialized in the design and development of advanced communication systems, with strong experience in signal modeling, filtering, and performance optimization.  
+Work primarily involves MATLAB and Python for simulation, analysis, and algorithm development.
 
-Currently, I am developing software based on Go lang, which interacts with CUDA and C++ based software for a real-time application. This is a very large project, and I am a part of it.
+---
 
-By the way, I should mention that I'm also skilled in Git, which has played a significant role in shaping my abilities and bringing me to where I am today. :smile:
+## 🤖 Machine Learning & Deep Learning
+Applying machine learning to signal processing, communication systems, and computer vision.  
+Experience includes feature extraction, nonlinear modeling, and data-driven optimization for complex systems.
 
-  
-* 💼 Currently I am working as a Wireless System Researcher and Developer in Vancouver, Canada.
+---
+
+## ⚙️ Software & Hardware Co-Design
+Experienced in building high-performance systems across software and hardware layers:
+
+- C++ / Qt for application development  
+- CUDA for GPU-accelerated computation  
+- FPGA development using VHDL and Xilinx System Generator  
+
+Focused on bridging algorithm design with efficient real-time implementation.
+
+---
+
+## 🔬 Research Interests
+- AI for Communication Systems  
+- Feature extraction and representation learning  
+- Real-time high-performance signal processing  
+- ML-assisted network optimization (CAPEX-aware systems)
+
+---
+
+## 💼 Current Role
+Wireless System Researcher & Developer — Vancouver, Canada  
+
+---
+
+## 🤝 Contact
 * 📫 Contact me [@MHShammakhi](https://www.linkedin.com/in/mohammad-hasan-shammakhi-a6a34663/)
 
 ## My skills
