@@ -40,7 +40,7 @@ Focused on bridging algorithm design with efficient real-time implementation.
 - AI for Communication Systems  
 - Feature extraction and representation learning  
 - Real-time high-performance signal processing  
-- ML-assisted network optimization (CAPEX-aware systems)
+- ML-assisted Optical network modeling and optimization
 
 ---
 
@@ -50,7 +50,7 @@ Wireless System Researcher & Developer — Vancouver, Canada
 ---
 
 ## 🤝 Contact
-* 📫 Contact me [@MHShammakhi](https://www.linkedin.com/in/mohammad-hasan-shammakhi-a6a34663/)
+📫 Contact me:   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mh.shammakhi@gmail.com)
 
 ## My skills
 <p align="center">
@@ -60,7 +60,7 @@ Wireless System Researcher & Developer — Vancouver, Canada
 
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mh.shammakhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-hasan-shammakhi-a6a34663/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-shammakhi-a6a34663/) 
   
 <!--
 **mhshammakhi/mhshammakhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
