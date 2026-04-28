@@ -54,7 +54,7 @@ Wireless System Researcher & Developer — Vancouver, Canada
 
 ## My skills
 <p align="center">
-  <img align="center" alt="Skills" src="./logos.PNG" />
+  <img align="center" alt="Skills" src="./logos.png" />
 </p>  
 <br/>
 
